@@ -19,33 +19,33 @@ This project provides a fast‑reference guide for diagnosing and correcting the
 
 **1. Streaks or Lines**
 
-Causes: Dirty rollers, low toner, damaged drum
+- Causes: Dirty rollers, low toner, damaged drum
 
-Fixes: Clean rollers, replace toner, inspect/replace drum
+- Fixes: Clean rollers, replace toner, inspect/replace drum
 
 **2. Faded Prints**
 
-Causes: Low toner, density settings, clogged printhead
+- Causes: Low toner, density settings, clogged printhead
 
-Fixes: Replace toner, adjust density, run cleaning cycle
+- Fixes: Replace toner, adjust density, run cleaning cycle
 
 **4. Ghosting**
 
-Causes: Fuser temperature issues, drum discharge problems
+- Causes: Fuser temperature issues, drum discharge problems
 
-Fixes: Replace fuser, replace drum
+- Fixes: Replace fuser, replace drum
 
 **5. Color Misalignment**
 
-Causes: Calibration drift, dirty encoder strip
+- Causes: Calibration drift, dirty encoder strip
 
-Fixes: Run calibration, clean encoder strip, reseat cartridges
+- Fixes: Run calibration, clean encoder strip, reseat cartridges
 
 **6. Smudges or Smears**
 
-Causes: Fuser bonding issues, moisture in paper, dirty path
+- Causes: Fuser bonding issues, moisture in paper, dirty path
 
-Fixes: Replace fuser, use fresh paper, clean path
+- Fixes: Replace fuser, use fresh paper, clean path
 
 **Outcome**
 
